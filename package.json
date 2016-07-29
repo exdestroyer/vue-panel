@@ -1,0 +1,24 @@
+{
+  "name": "vue-panel",
+  "version": "1.0.0",
+  "description": "基于Vuex的加减价格面板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exdestroyer/vue-panel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exdestroyer/vue-panel/issues"
+  },
+  "homepage": "https://github.com/exdestroyer/vue-panel#readme",
+  "dependencies": {
+    "vue": "^1.0.26",
+    "vuex": "^1.0.0-rc.2"
+  }
+}
